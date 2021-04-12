@@ -25,7 +25,7 @@ function App() {
       setCurrentStep(0);
     }
   };
-  if (!quiz.length) return <h3>Loading...</h3>;
+  if (!quiz.length) return <h3>Raghunathji...</h3>;
   return (
     <div className="App">
       <QuestionCard
